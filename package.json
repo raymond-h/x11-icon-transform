@@ -1,7 +1,7 @@
 {
   "name": "x11-icon-transform",
   "description": "Split X11 _NET_WM_ICON data into manageable chunks",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "author": "Raymond Hammarling",
