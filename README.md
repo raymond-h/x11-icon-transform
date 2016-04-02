@@ -1,7 +1,7 @@
 # x11-icon-transform
 Split X11 _NET_WM_ICON data into manageable chunks
 
-Useful together with [`x11-prop-stream`](https://github.com/raymond-h/x11-icon-transform) to get a stream of data from the `_NET_WM_ICON` X window property.
+Useful together with [`x11-prop-stream`](https://github.com/raymond-h/x11-prop-stream) to get a stream of data from the `_NET_WM_ICON` X window property.
 
 ## Installing
 `npm install x11-icon-transform`
